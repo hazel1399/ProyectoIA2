@@ -23,7 +23,9 @@ Los modelos se encuentran en una carpeta de drive debido a que son muy pesados: 
 
 # Enlaces del código, video, y repositorio:
 
-- Código: https://drive.google.com/file/d/1u1OpHU5pQtFHWgMLnsJT4dsP9gWT3aRh/view?usp=sharing (al ser tan pesado se tuvo que subir en drive)
+- Código: Se dividió el notebook en dos partes para poderlo subir a GitHub:
+1. Parte 1 con los modelos de autoencoders: https://github.com/hazel1399/ProyectoIA2/blob/main/proyectoIA2-Parte1-Modelos.ipynb
+2. Parte 2 con resultados de los modelos en base a imágenes antiguas de la UIS y Bucaramanga: https://github.com/hazel1399/ProyectoIA2/blob/main/proyectoIA2-Parte2-Resultados.ipynb
 - Vídeo: https://www.youtube.com/watch?v=Tzk7aIQNArs
 - Repositorio: https://github.com/hazel1399/ProyectoIA2
 
